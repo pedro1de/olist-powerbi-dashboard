@@ -68,7 +68,7 @@ O foco principal é demonstrar:
 
 O dashboard completo foi exportado em PDF:
 
-[Visualizar Dashboard](./dashboard_images.pdf)
+[Visualizar Dashboard](./olist_dashboard.pdf)
 
 ---
 
